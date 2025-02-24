@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "d3f6187f2e2bae87",
+        "id": "184fc97217b91cae",
         "type": "tabs",
         "children": [
           {
-            "id": "0bcafdd199296dff",
+            "id": "5967af7151e119f9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tecnologías/Node/Streams/Readable Streams.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Readable Streams"
-            }
-          },
-          {
-            "id": "c94243f84fa53c1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tecnologías/Node/Streams/Writable Streams.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Writable Streams"
+              "title": "Nueva pestaña"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5,
-    "collapsed": true
+    "width": 258.5
   },
   "right": {
     "id": "f6aa261f72907fbd",
@@ -158,7 +138,7 @@
               "type": "advanced-tables-toolbar",
               "state": {},
               "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "Complemento no activo"
             }
           },
           {
@@ -175,14 +155,23 @@
               "icon": "lucide-list",
               "title": "Esquema de 1_Sintaxis de Consulta"
             }
+          },
+          {
+            "id": "dfdccdbadb3478c1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 320.5,
-    "collapsed": true
+    "width": 586.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,14 +181,15 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c94243f84fa53c1c",
+  "active": "5967af7151e119f9",
   "lastOpenFiles": [
-    "Tecnologías/Node/Streams/Readable Streams.md",
     "Tecnologías/Node/Streams/Writable Streams.md",
+    "Tecnologías/Node/Streams/Readable Streams.md",
     "Tecnologías/Node/Streams/Streams y Buffers.md",
     "Tecnologías/Node/Introducción.md",
     "Tecnologías/Node/Streams",

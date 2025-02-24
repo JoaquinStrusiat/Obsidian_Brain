@@ -1,0 +1,75 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "twemoji",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "RiLiveLine",
+      "LiArrowRightLeft",
+      "LiBox",
+      "RiHomeGearFill",
+      "⚙"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInTitlePosition": "inline",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Tecnologías": {
+    "iconName": "RiGraduationCapFill",
+    "iconColor": "#ff0000"
+  },
+  "Tecnologías/JavaScript": {
+    "iconName": "RiJavascriptFill",
+    "iconColor": "#fbff00"
+  },
+  "Tecnologías/MongoDB": {
+    "iconName": "RiDatabase2Fill",
+    "iconColor": "#15b300"
+  },
+  "Personal": {
+    "iconName": "RiBookmarkFill",
+    "iconColor": "#1e00ff"
+  },
+  "Trabajo": {
+    "iconName": "LiWorkflow",
+    "iconColor": "#ff7b00"
+  },
+  "Tecnologías/MongoDB/Sintaxis": "❔",
+  "Tecnologías/Node": {
+    "iconName": "RiNodejsLine",
+    "iconColor": "#1f7500"
+  },
+  "Tecnologías/Node/Primeros pasos": "⚙",
+  "Tecnologías/Node/Modulos": {
+    "iconName": "LiBox",
+    "iconColor": "#1100ff"
+  },
+  "Tecnologías/Node/Programación Asincronía": {
+    "iconName": "LiArrowRightLeft",
+    "iconColor": "#ff6600"
+  },
+  "Tecnologías/Node/Streams": {
+    "iconName": "RiLiveLine",
+    "iconColor": "#fbff00"
+  }
+}

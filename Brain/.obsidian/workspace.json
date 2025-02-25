@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "184fc97217b91cae",
+        "id": "bd750bc72230c451",
         "type": "tabs",
         "children": [
           {
-            "id": "5967af7151e119f9",
+            "id": "e55dd99b5a17a59b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Tecnologías/Node/ExpressJs/Express JS.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Express JS"
             }
           }
         ]
@@ -138,7 +142,7 @@
               "type": "advanced-tables-toolbar",
               "state": {},
               "icon": "lucide-file",
-              "title": "Complemento no activo"
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -171,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 586.5
+    "width": 380.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,12 +190,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5967af7151e119f9",
+  "active": "1ff6aef31e5a8a75",
   "lastOpenFiles": [
+    "Tecnologías/Node/ExpressJs/Express JS.md",
+    "Tecnologías/Node/Introducción.md",
+    "Tecnologías/Node/ExpressJs",
+    "Tecnologías/JavaScript/Operadores Lógicos.md",
+    "Tecnologías/JavaScript/Boolean.md",
+    "Tecnologías/JavaScript/Arreglos.md",
+    "Tecnologías/JavaScript/async_await.md",
     "Tecnologías/Node/Streams/Writable Streams.md",
     "Tecnologías/Node/Streams/Readable Streams.md",
     "Tecnologías/Node/Streams/Streams y Buffers.md",
-    "Tecnologías/Node/Introducción.md",
     "Tecnologías/Node/Streams",
     "Tecnologías/Node/Modulos/Módulo File System.md",
     "Tecnologías/Node/Modulos/Utilidades en Node.md",
@@ -200,9 +210,6 @@
     "Tecnologías/Node/Programación Asincronía/Programación Orientada a Callbacks y Promesas.md",
     "Tecnologías/JavaScript/4_Tipos de Datos.md",
     "Tecnologías/JavaScript/Ciclos o Bucles.md",
-    "Tecnologías/JavaScript/Arreglos.md",
-    "Tecnologías/JavaScript/Operadores Lógicos.md",
-    "Tecnologías/JavaScript/Boolean.md",
     "Tecnologías/JavaScript/Funciones.md",
     "Tecnologías/JavaScript/Clases.md",
     "Tecnologías/JavaScript/Objetos.md",
@@ -214,8 +221,6 @@
     "Tecnologías/Node/Primeros pasos/Instalar Node con nvm.md",
     "Tecnologías/JavaScript/Programación Asíncrona.md",
     "Tecnologías/JavaScript/1_Introducción.md",
-    "Tecnologías/MongoDB/3_Comandos y sintaxis.md",
-    "Tecnologías/MongoDB/2_Instalación.md",
     "Instalación de node",
     "Tecnologías/Node/Primeros pasos",
     "Tecnologías/Node/Programación Asincronía",
@@ -225,7 +230,6 @@
     "Tecnologías/MongoDB/Sintaxis",
     "Sin título.canvas",
     "Personal/Excalidraw",
-    "Tecnologías/MongoDB",
     "Tecnologías/JavaScript/Sin título.canvas"
   ]
 }

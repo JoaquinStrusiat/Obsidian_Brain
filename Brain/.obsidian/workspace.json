@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "047247f6eca9c75c",
+    "id": "53a8cdaeb05b2f4c",
     "type": "split",
     "children": [
       {
-        "id": "184fc97217b91cae",
+        "id": "820bc76e32bfa7a1",
         "type": "tabs",
         "children": [
           {
-            "id": "5967af7151e119f9",
+            "id": "c996a0e590d72805",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Tecnologías/Node/ExpressJs/Express JS.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Express JS"
             }
           }
         ]
@@ -23,15 +27,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ed98189007e928f4",
+    "id": "ca0311fc6c8ab641",
     "type": "split",
     "children": [
       {
-        "id": "efb331119ac4d023",
+        "id": "c777a30237a81725",
         "type": "tabs",
         "children": [
           {
-            "id": "c9219481f0956de6",
+            "id": "54df69ce56f9b614",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "a4160ce8eff243ee",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -48,7 +65,7 @@
             }
           },
           {
-            "id": "7bf6dae07aaeb2ab",
+            "id": "1805af139018add2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -56,108 +73,86 @@
               "icon": "lucide-bookmark",
               "title": "Marcadores"
             }
-          },
-          {
-            "id": "1ff6aef31e5a8a75",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 300
   },
   "right": {
-    "id": "f6aa261f72907fbd",
+    "id": "b7a0b276ae64b791",
     "type": "split",
     "children": [
       {
-        "id": "2a2a364c16f8c599",
+        "id": "77190ebdb94cc90b",
         "type": "tabs",
         "children": [
           {
-            "id": "f043655fd22bddae",
+            "id": "c8d8b2eb49cc9a72",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tecnologías/MongoDB/Comandos y sintaxis.md",
+                "file": "Tecnologías/Node/ExpressJs/Express JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Comandos y sintaxis"
+              "title": "Enlaces entrantes de Express JS"
             }
           },
           {
-            "id": "d8c15a8df69b6bbf",
+            "id": "4c3e96054026dd0b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tecnologías/MongoDB/Comandos y sintaxis.md",
+                "file": "Tecnologías/Node/ExpressJs/Express JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Comandos y sintaxis"
+              "title": "Enlaces salientes de Express JS"
             }
           },
           {
-            "id": "4eb250c889bc6774",
+            "id": "1ab5d5656e8b50b3",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
-                "useHierarchy": false
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Etiquetas"
             }
           },
           {
-            "id": "ed9d4076dbddae7b",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Complemento no activo"
-            }
-          },
-          {
-            "id": "06a1986b2a119b07",
+            "id": "d383e3f7a783fa4b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tecnologías/MongoDB/Sintaxis/1_Sintaxis de Consulta.md",
+                "file": "Tecnologías/Node/ExpressJs/Express JS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de 1_Sintaxis de Consulta"
+              "title": "Esquema de Express JS"
             }
           },
           {
-            "id": "dfdccdbadb3478c1",
+            "id": "36afd58696caf845",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -167,12 +162,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 318.5,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,46 +181,6 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5967af7151e119f9",
-  "lastOpenFiles": [
-    "Tecnologías/Node/Streams/Writable Streams.md",
-    "Tecnologías/Node/Streams/Readable Streams.md",
-    "Tecnologías/Node/Streams/Streams y Buffers.md",
-    "Tecnologías/Node/Introducción.md",
-    "Tecnologías/Node/Streams",
-    "Tecnologías/Node/Modulos/Módulo File System.md",
-    "Tecnologías/Node/Modulos/Utilidades en Node.md",
-    "Trabajo/relaciones.excalidraw.md",
-    "Tecnologías/Node/Programación Asincronía/Programación Orientada a Eventos.md",
-    "Tecnologías/Node/Programación Asincronía/Programación Orientada a Callbacks y Promesas.md",
-    "Tecnologías/JavaScript/4_Tipos de Datos.md",
-    "Tecnologías/JavaScript/Ciclos o Bucles.md",
-    "Tecnologías/JavaScript/Arreglos.md",
-    "Tecnologías/JavaScript/Operadores Lógicos.md",
-    "Tecnologías/JavaScript/Boolean.md",
-    "Tecnologías/JavaScript/Funciones.md",
-    "Tecnologías/JavaScript/Clases.md",
-    "Tecnologías/JavaScript/Objetos.md",
-    "Trabajo/Widgets y vistas.md",
-    "Trabajo/Preguntas Para un médico.md",
-    "Trabajo/Vista.excalidraw.md",
-    "Tecnologías/Node/Modulos",
-    "Tecnologías/Node/Primeros pasos/Node.js.md",
-    "Tecnologías/Node/Primeros pasos/Instalar Node con nvm.md",
-    "Tecnologías/JavaScript/Programación Asíncrona.md",
-    "Tecnologías/JavaScript/1_Introducción.md",
-    "Tecnologías/MongoDB/3_Comandos y sintaxis.md",
-    "Tecnologías/MongoDB/2_Instalación.md",
-    "Instalación de node",
-    "Tecnologías/Node/Primeros pasos",
-    "Tecnologías/Node/Programación Asincronía",
-    "Tecnologías/Node",
-    "Excalidraw",
-    "Personal/Excalidraw/Sin título.canvas",
-    "Tecnologías/MongoDB/Sintaxis",
-    "Sin título.canvas",
-    "Personal/Excalidraw",
-    "Tecnologías/MongoDB",
-    "Tecnologías/JavaScript/Sin título.canvas"
-  ]
+  "active": "c996a0e590d72805",
+  "lastOpenFiles": []
 }

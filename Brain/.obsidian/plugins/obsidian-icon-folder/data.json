@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiBox3Fill",
       "RiLiveLine",
       "LiArrowRightLeft",
       "LiBox",
-      "RiHomeGearFill",
-      "⚙"
+      "RiHomeGearFill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -71,5 +71,9 @@
   "Tecnologías/Node/Streams": {
     "iconName": "RiLiveLine",
     "iconColor": "#fbff00"
+  },
+  "Tecnologías/Node/ExpressJs": {
+    "iconName": "RiBox3Fill",
+    "iconColor": "#eeff00"
   }
 }

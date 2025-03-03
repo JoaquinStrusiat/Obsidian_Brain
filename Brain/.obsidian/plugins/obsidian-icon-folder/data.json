@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiDownload",
+      "RiQuestionnaireLine",
       "RiBox3Fill",
       "RiLiveLine",
-      "LiArrowRightLeft",
-      "LiBox",
-      "RiHomeGearFill"
+      "LiArrowRightLeft"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -54,25 +54,26 @@
     "iconName": "LiWorkflow",
     "iconColor": "#ff7b00"
   },
-  "Tecnologías/MongoDB/Sintaxis": "❔",
+  "Tecnologías/MongoDB/Sintaxis": "RiQuestionnaireLine",
   "Tecnologías/Node": {
     "iconName": "RiNodejsLine",
     "iconColor": "#1f7500"
   },
-  "Tecnologías/Node/Primeros pasos": "⚙",
-  "Tecnologías/Node/Modulos": {
-    "iconName": "LiBox",
-    "iconColor": "#1100ff"
-  },
-  "Tecnologías/Node/Programación Asincronía": {
+  "Tecnologías/Node/1_Primeros pasos": "⚙",
+  "Tecnologías/Node/1_Primeros pasos/1_Instalación": "LiDownload",
+  "Tecnologías/Node/1_Primeros pasos/2_Programación Asincronía": {
     "iconName": "LiArrowRightLeft",
     "iconColor": "#ff6600"
   },
-  "Tecnologías/Node/Streams": {
+  "Tecnologías/Node/1_Primeros pasos/3_Modulos": {
+    "iconName": "LiBox",
+    "iconColor": "#1100ff"
+  },
+  "Tecnologías/Node/1_Primeros pasos/4_Streams": {
     "iconName": "RiLiveLine",
     "iconColor": "#fbff00"
   },
-  "Tecnologías/Node/ExpressJs": {
+  "Tecnologías/Node/2_ExpressJs": {
     "iconName": "RiBox3Fill",
     "iconColor": "#eeff00"
   }

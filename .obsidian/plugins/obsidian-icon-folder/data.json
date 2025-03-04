@@ -1,0 +1,62 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "twemoji",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiQuestionMarkGlyph",
+      "RiNodejsFill",
+      "OcDatabase16",
+      "RiJavascriptFill",
+      "LiLaptop"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInTitlePosition": "inline",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Personal": {
+    "iconName": "OcPerson16",
+    "iconColor": "#ff0000"
+  },
+  "Tecnologías": {
+    "iconName": "LiCode2",
+    "iconColor": "#2b00ff"
+  },
+  "Trabajo": {
+    "iconName": "LiLaptop",
+    "iconColor": "#11ff00"
+  },
+  "Tecnologías/JavaScript": {
+    "iconName": "RiJavascriptFill",
+    "iconColor": "#f0ff00"
+  },
+  "Tecnologías/MongoDB": {
+    "iconName": "OcDatabase16",
+    "iconColor": "#00b400"
+  },
+  "Tecnologías/Node": {
+    "iconName": "RiNodejsFill",
+    "iconColor": "#32b400"
+  },
+  "Tecnologías/MongoDB/Sintaxis": "LiQuestionMarkGlyph"
+}

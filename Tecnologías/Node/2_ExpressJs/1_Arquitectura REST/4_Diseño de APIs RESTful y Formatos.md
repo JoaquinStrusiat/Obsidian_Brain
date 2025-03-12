@@ -2,15 +2,23 @@
 Un **endpoint** es una URL donde se accede a un recurso. Debe ser **claro y coherente**.
 Ejemplo de una API para gestionar productos:
 
-|Método HTTP|Endpoint|Acción|
-|---|---|---|
-|`GET`|`/productos`|Obtener todos los productos|
-|`GET`|`/productos/1`|Obtener un producto específico|
-|`POST`|`/productos`|Crear un nuevo producto|
-|`PUT`|`/productos/1`|Actualizar un producto|
-|`DELETE`|`/productos/1`|Eliminar un producto|
+#### **Métodos HTTP:**
+![[1_Protocolos de comunicación#**Métodos HTTP**]]
 
-**Buenas prácticas:**
+#### **Ejemplo de métodos con sus respectivas rutas:**
+
+| Método HTTP | Endpoint       | Acción                         |
+| ----------- | -------------- | ------------------------------ |
+| `GET`       | `/productos`   | Obtener todos los productos    |
+| `GET`       | `/productos/1` | Obtener un producto específico |
+| `POST`      | `/productos`   | Crear un nuevo producto        |
+| `PUT`       | `/productos/1` | Actualizar un producto         |
+| `DELETE`    | `/productos/1` | Eliminar un producto           |
+#### **Código de estado en respuesta a estos métodos:**
+![[1_Protocolos de comunicación#**Códigos de Estado HTTP**]]
+
+
+#### **Buenas prácticas:**
 - Usar **nombres en plural** (`/usuarios`, `/productos`).
 - **No incluir verbos en la URL** (`/crearProducto` ❌, `/productos` ✅).
 - Utilizar **códigos de estado HTTP adecuados** (`201 Created` para nuevos recursos).

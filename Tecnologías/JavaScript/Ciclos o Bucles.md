@@ -74,7 +74,7 @@ do {
 ##### Caso 4: `Métodos funcionales en arreglos`
 Aunque no son estrictamente bucles, estos métodos proporcionan una forma declarativa de iterar.
 
-#forHeach
+#forEach
 - **forEach**: Ejecuta una función para cada elemento de un arreglo.
 ``` js
 const numeros = [1, 2, 3, 4, 5]; 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tecnologías/neo4j/Introducción a Neo4j.md",
+                "file": "Facultad/Base de datos II/Apuntes 2do Parcial/Unidad 4/Apuntes de unidad 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introducción a Neo4j"
+              "title": "Apuntes de unidad 4"
             }
           }
         ]
@@ -183,8 +183,13 @@
   },
   "active": "d7fc73282c1d0aca",
   "lastOpenFiles": [
-    "Facultad/Base de datos II/Apuntes 2do Parcial/Temario.md",
+    "Facultad/Base de datos II/Apuntes 2do Parcial/Unidad 3/Apuntes de unidad 3.md",
+    "Facultad/Base de datos II/Apuntes 2do Parcial/Unidad 4/Apuntes de unidad 4.md",
+    "Facultad/Base de datos II/Apuntes 2do Parcial/Unidad 4/Untitled",
+    "Facultad/Base de datos II/Apuntes 2do Parcial/Unidad 4",
     "Tecnologías/neo4j/Introducción a Neo4j.md",
+    "Facultad/Base de datos II/Apuntes 2do Parcial/Unidad 3",
+    "Facultad/Base de datos II/Apuntes 2do Parcial/Temario.md",
     "Facultad/Base de datos II/Apuntes 2do Parcial",
     "Tecnologías/TypeScript/Tipos de Datos.md",
     "Facultad/Base de datos II",
@@ -213,10 +218,6 @@
     "Trabajo/relaciones.excalidraw.md",
     "Trabajo/Ayudas.md",
     "Tecnologías/Node/Temario.md",
-    "Trabajo/Vista.excalidraw.md",
-    "Tecnologías/MongoDB/1_Introducción.md",
-    "Tecnologías/Node/2_ExpressJs/2_Primeros pasos en Express",
-    "Tecnologías/Node/2_ExpressJs/1_Arquitectura REST",
-    "Tecnologías/Node/1_Primeros pasos/1_Instalación"
+    "Tecnologías/Node/2_ExpressJs/2_Primeros pasos en Express"
   ]
 }

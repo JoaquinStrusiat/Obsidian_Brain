@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiQuestionMarkGlyph",
-      "RiNodejsFill",
-      "OcDatabase16",
-      "RiJavascriptFill",
-      "LiLaptop"
+      "OcDatabase24",
+      "LiGitGraph",
+      "PeTypeScript",
+      "LiLaptop",
+      "OcBook16"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -29,14 +29,14 @@
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true,
     "iconsInLinksEnabled": true,
-    "iconIdentifier": ":",
+    "iconIdentifier": "::",
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
   },
   "Personal": {
-    "iconName": "OcPerson16",
-    "iconColor": "#ff0000"
+    "iconName": "LiLaptop",
+    "iconColor": "#ffff00"
   },
   "Tecnologías": {
     "iconName": "LiCode2",
@@ -58,5 +58,18 @@
     "iconName": "RiNodejsFill",
     "iconColor": "#32b400"
   },
-  "Tecnologías/MongoDB/Sintaxis": "LiQuestionMarkGlyph"
+  "Tecnologías/MongoDB/Sintaxis": "LiQuestionMarkGlyph",
+  "Facultad": {
+    "iconName": "OcBook16",
+    "iconColor": "#ff0000"
+  },
+  "Tecnologías/TypeScript": {
+    "iconName": "PeTypeScript",
+    "iconColor": "#0000ff"
+  },
+  "Tecnologías/neo4j": {
+    "iconName": "LiGitGraph",
+    "iconColor": "#0082ff"
+  },
+  "Facultad/Base de datos II": "OcDatabase24"
 }

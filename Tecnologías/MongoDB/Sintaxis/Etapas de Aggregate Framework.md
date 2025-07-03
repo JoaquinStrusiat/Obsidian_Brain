@@ -55,6 +55,7 @@ db.ventas.aggregate([
 ]);
 ```
 
+
 ### $unwind:
 Descompone un array en documentos individuales, creando un documento por cada elemento del array.
 

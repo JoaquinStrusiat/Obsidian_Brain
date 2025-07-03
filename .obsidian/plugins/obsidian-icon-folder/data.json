@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiReactjsLine",
       "LiQuestionMarkGlyph",
       "RiNodejsFill",
       "OcDatabase16",
-      "RiJavascriptFill",
-      "LiLaptop"
+      "RiJavascriptFill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -58,5 +58,9 @@
     "iconName": "RiNodejsFill",
     "iconColor": "#32b400"
   },
-  "Tecnologías/MongoDB/Sintaxis": "LiQuestionMarkGlyph"
+  "Tecnologías/MongoDB/Sintaxis": "LiQuestionMarkGlyph",
+  "Tecnologías/React": {
+    "iconName": "RiReactjsLine",
+    "iconColor": "#0000ff"
+  }
 }

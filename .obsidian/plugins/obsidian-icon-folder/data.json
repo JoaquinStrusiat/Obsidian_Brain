@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiGitGraph",
+      "LiFileType",
       "RiReactjsLine",
       "LiQuestionMarkGlyph",
-      "RiNodejsFill",
-      "OcDatabase16",
-      "RiJavascriptFill"
+      "RiNodejsFill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -61,6 +61,11 @@
   "Tecnologías/MongoDB/Sintaxis": "LiQuestionMarkGlyph",
   "Tecnologías/React": {
     "iconName": "RiReactjsLine",
+    "iconColor": "#02c8ff"
+  },
+  "Tecnologías/TypeScript": {
+    "iconName": "LiFileType",
     "iconColor": "#0000ff"
-  }
+  },
+  "Tecnologías/neo4j": "LiGitGraph"
 }

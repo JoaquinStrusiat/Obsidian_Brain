@@ -4,5 +4,5 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
   "attachmentFolderPath": "./recursos",
-  "showUnsupportedFiles": false
+  "showUnsupportedFiles": true
 }

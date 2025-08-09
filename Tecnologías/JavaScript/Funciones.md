@@ -58,6 +58,7 @@ funcAnonima(num1, num2); //Salida: 15
 ```
 
 #### **El scope o alcance**
+#scopeDeFunciones
 En términos generales el `scope` o `alcance` es una colección de variables, constantes, funciones y objetos que están a tu alcance en tu código. En javascript existen dos tipos de ellos el `scope global` y el `scope local`
 
 **Scope Global** : son todas aquellas variables, constantes, funciones y objetos que son accesibles en cualquier parte del código y por lo general son todas aquellas que se definen en la raíz de nuestro código; por fuera de bloques de código como funciones, bucles.
@@ -123,8 +124,53 @@ function saludar (unNombre){
 saludar(nombre); //Salida: "Hola Joaquin"
 ```
 
+#### **Closure functions**
+#closureFunction
+Un _closure_ es una función que **"recuerda" el entorno en el que fue creada**, incluso después de que ese entorno haya terminado de ejecutarse.
+
+En términos técnicos:
+>Un closure combina una función con su _scope_ léxico, permitiendo que acceda a las variables externas aún después de que la función externa haya finalizado.
+
+``` js
+function saludar(nombre) {
+  return function() {
+    console.log(`Hola, ${nombre}`);
+  };
+}
+
+const saludoParaJuan = saludar("Juan");
+saludoParaJuan(); // Hola, Juan
+```
+
+¿Qué pasó acá?
+- `saludar` es una función que **retorna otra función**.
+- La función interna accede a `nombre`, aunque esa variable ya "terminó" su vida en la función externa.
+- Pero gracias al _closure_, la función interna **mantiene una referencia viva** a ese contexto.
+
+🧠 ¿Por qué es útil?
+- ✅ _Encapsulamiento_: mantener datos privados fuera del scope global.
+- ✅ _Factories de funciones_: crear funciones con comportamiento personalizado.
+- ✅ _Callbacks y handlers_: como los usados en eventos, `setTimeout`, etc.
+
+``` js
+function crearContador() {
+  let count = 0;
+  return function() {
+    count++;
+    console.log(count);
+  };
+}
+
+const contador = crearContador();
+contador(); // 1
+contador(); // 2
+contador(); // 3
+```
+
+Aunque la función `crearContador()` se ejecutó una vez, la función interna sigue **recordando** y **modificando** la variable `count` que vive en ese entorno cerrado
 
 #### **Arguments en funciones**
+#argumentosEnFunciones
 El objeto `arguments` es una colección de todos los argumentos pasados a una función. Puedes utilizar `arguments` para acceder a los parámetros de una función sin referenciar explícitamente sus nombres.
 
 ``` js
@@ -164,7 +210,7 @@ console.log(sumarTodos(1, 2, 3, 4)); // Salida: 10
 ```
 
 #### **Funciones puras**
-#funciones_puras
+#funcionesPuras
 Antes de introducirnos en la explicación de que es una función pura, vamos a comentar un comportamiento muy común que puede tender a errores cuando trabajamos con javascript.
 Al pasar parámetros o argumentos tenemos que tener en cuenta la diferencia de pasarlos por `valor` y por `referencia`. 
 ###### Pasaje por Valor:

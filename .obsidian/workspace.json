@@ -11,10 +11,14 @@
             "id": "0e4cde27f03078f1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "RealNodeGraphV2/Post de LinkedIn.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Post de LinkedIn"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 240.5
   },
   "right": {
     "id": "a4012895bed2cb15",
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tecnologías/React/Ecosistema de React.md",
+                "file": "Tecnologías/TypeScript/Tipos de Datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Ecosistema de React"
+              "title": "Enlaces entrantes de Tipos de Datos"
             }
           },
           {
@@ -109,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tecnologías/React/Ecosistema de React.md",
+                "file": "Tecnologías/TypeScript/Tipos de Datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Ecosistema de React"
+              "title": "Enlaces salientes de Tipos de Datos"
             }
           },
           {
@@ -138,20 +142,32 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tecnologías/React/Ecosistema de React.md",
+                "file": "Tecnologías/TypeScript/Tipos de Datos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Ecosistema de React"
+              "title": "Esquema de Tipos de Datos"
+            }
+          },
+          {
+            "id": "7131acf4b201e279",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,8 +182,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5e376fc16335f60e",
+  "active": "0e4cde27f03078f1",
   "lastOpenFiles": [
+    "RealNodeGraphV2/A discutir.md",
+    "Trabajo/relaciones.excalidraw.md",
+    "Trabajo/Ayudas.md",
+    "RealNodeGraphV2/Post de LinkedIn.md",
+    "Tecnologías/TypeScript/Tipos personalizados.md",
+    "Tecnologías/TypeScript/Tipos de Datos.md",
+    "Tecnologías/TypeScript/Introducción a TypeScript.md",
+    "Tecnologías/JavaScript/Funciones.md",
+    "Tecnologías/JavaScript/Objetos.md",
+    "Tecnologías/JavaScript/Clases.md",
+    "RealNodeGraphV2",
+    "Tecnologías/neo4j/Introducción a Neo4j.md",
+    "Tecnologías/neo4j",
+    "Tecnologías/TypeScript",
+    "Facultad/Base de datos II/Apuntes 2do Parcial/Temario Unidad 3.md",
+    "Facultad/Base de datos II/Apuntes 2do Parcial/Temario Unidad 4.md",
+    "Facultad/Base de datos II/Apuntes 2do Parcial",
+    "Facultad/Base de datos II",
+    "Facultad",
     "Tecnologías/React/Ecosistema de React.md",
     "Tecnologías/MongoDB/3_Comandos y sintaxis.md",
     "Tecnologías/MongoDB/2_Instalación.md",

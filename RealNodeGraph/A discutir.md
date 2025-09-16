@@ -12,7 +12,7 @@ Las relaciones no tienen dueño (`owner`), son un contrato bi-direccional entre 
 
 ### Uso funcional (relación):
 
-Define el **rol funcional actual** del objeto en el sistema.
+Define el **rol funcional actual** del objeto en el sistema (depende del contexto).
 
 El uso funcional de un objeto determina el uso que se le puede dar a un objeto en un determinado contexto, independientemente del tipo. Por ejemplo, un mismo objeto de tipo computadora puede ser un activo (`asset`) o un producto (`producto`) en función del uso que se le de:
 

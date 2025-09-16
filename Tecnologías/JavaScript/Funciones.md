@@ -40,7 +40,7 @@ saludar(nombre); //Salida: "Hola Joaquin"
 En funciones expresadas, solamente podemos llamarlas por debajo o posterior a su definición para que javascript  reconozca su implementación; en caso de llamarla en por encima de su definición nuestro programa podría retornar un error del tipo "función undefined".
 ``` js
 const nombre = "Joaquin"
-const saludar = function func (unNombre){
+const saludar = function (unNombre){
 	console.log(`Hola ${unNombre}`);
 }
 saludar(nombre); //Salida: "Hola Joaquin"

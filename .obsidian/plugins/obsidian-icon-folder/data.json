@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiBook3Fill",
       "LiGitGraph",
       "LiFileType",
       "RiReactjsLine",
-      "LiQuestionMarkGlyph",
-      "RiNodejsFill"
+      "LiQuestionMarkGlyph"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -67,5 +67,13 @@
     "iconName": "LiFileType",
     "iconColor": "#0000ff"
   },
-  "Tecnologías/neo4j": "LiGitGraph"
+  "Tecnologías/neo4j": "LiGitGraph",
+  "RealNodeGraph": {
+    "iconName": "LiGitGraph",
+    "iconColor": "#7dff00"
+  },
+  "Facultad": {
+    "iconName": "RiBook3Fill",
+    "iconColor": "#ffff00"
+  }
 }

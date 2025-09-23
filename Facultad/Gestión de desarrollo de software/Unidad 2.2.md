@@ -39,4 +39,3 @@ Para saber si un equipo mantiene y evoluciona bien un software, necesitamos medi
 | 5          | Refactorización del módulo de facturación con código duplicado | Perfectiva              | Medio       | Bajo        | Complejidad a la hora de escalar el proyecto                    | Equipo técnico          |
 | 6          | Optimizar consultas SQL lentas                                 | Perfectivo -Correctivas | Medio       | Medio       | Puede volver el sistema cada vez más lento y volverlo poco útil | Equipo técnico -Usuario |
 | 9          | Vulnerabilidad en librería de autenticación                    | Preventido              | Bajo        | Alta        | Acceso indebido a información de carácter privado               | Equipo técnico          |
-

@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "25e31a5b6708e8cb",
+        "id": "e46ed26a9a50544c",
         "type": "tabs",
         "children": [
           {
-            "id": "1606853f32e60126",
+            "id": "487616aa8553d066",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "RealNodeGraph/Routes.md"
+                "file": "Facultad/Int Análisis de Datos/22-09-25_Introducción a la inteligencia artificial.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Routes"
+              "icon": "lucide-file",
+              "title": "22-09-25_Introducción a la inteligencia artificial"
             }
           }
         ]
@@ -76,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 374.5
   },
   "right": {
     "id": "b7a0b276ae64b791",
@@ -194,23 +196,28 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "1606853f32e60126",
+  "active": "487616aa8553d066",
   "lastOpenFiles": [
+    "Facultad/Int Análisis de Datos/15-09-25.md",
+    "Facultad/Int Análisis de Datos/08-09-25.md",
+    "Facultad/Int Análisis de Datos/Tratamiento y Preparación de Datos.md",
+    "Facultad/Int Análisis de Datos/La anatomía de los datos.md",
+    "Facultad/Int Análisis de Datos/22-09-25_Introducción a la inteligencia artificial.md",
+    "Facultad/Int Análisis de Datos/Fechas de parcial.md",
+    "Facultad/Gestión de desarrollo de software/Unidad 2.2.md",
+    "RealNodeGraph/Mongoose.md",
+    "Personal/platform variable.excalidraw.md",
+    "Personal/Documentación del servicio de Onboarding.md",
+    "Personal/Tarea de Programación.md",
+    "RealNodeGraph/Routes.md",
     "RealNodeGraph/Post de LinkedIn.md",
     "RealNodeGraph/A discutir.md",
     "Facultad/Gestión de desarrollo de software/Unidad 2.1.md",
     "Facultad/Gestión de desarrollo de software/Introducción.md",
-    "Personal/platform variable.excalidraw.md",
-    "Personal/Documentación del servicio de Onboarding.md",
     "Facultad/Metodología de Sistemas 2/Apuntes del primer parcial.md",
     "Facultad/Programación/Python/Trabajo 03-10-25.md",
     "Facultad/TFI/Sin título.md",
     "Facultad/Legislación/La revolución virtual.md",
-    "Facultad/Int Análisis de Datos/Tratamiento y Preparación de Datos.md",
-    "Facultad/Int Análisis de Datos/La anatomía de los datos.md",
-    "Facultad/Int Análisis de Datos/15-09-25.md",
-    "Facultad/Int Análisis de Datos/08-09-25.md",
-    "Facultad/Gestión de desarrollo de software/Unidad 2.2.md",
     "Excalidraw",
     "Personal/Sin título.base",
     "Tecnologías/JavaScript/1_Introducción.md",
@@ -225,11 +232,6 @@
     "Facultad/Gestión de desarrollo de software",
     "Tecnologías/Node/1_Primeros pasos/2_Programación Asincronía/Programación Orientada a Callbacks y Promesas.md",
     "Tecnologías/Node/1_Primeros pasos/2_Programación Asincronía/Programación Orientada a Eventos.md",
-    "Tecnologías/JavaScript/async_await.md",
-    "Tecnologías/JavaScript/Prototipos.md",
-    "Tecnologías/JavaScript/Funciones.md",
-    "Tecnologías/Python/test code.md",
-    "Tecnologías/JavaScript/3_Coerción de Tipos.md",
     "Tecnologías/Python",
     "Facultad/Int Análisis de Datos/recursos/Pasted image 20250818200126.png",
     "Facultad/Int Análisis de Datos/recursos"
